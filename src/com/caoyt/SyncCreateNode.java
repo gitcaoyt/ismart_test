@@ -33,6 +33,7 @@ public class SyncCreateNode implements Watcher{
 		
 		System.out.println("state---->" + state);
 		System.out.println("hah---->");
+		System.out.println("state---->hah");
 		
 		
 		Thread.sleep(Integer.MAX_VALUE);
