@@ -32,6 +32,7 @@ public class SyncCreateNode implements Watcher{
 		States state = zooKeeper.getState();
 		
 		System.out.println("state---->" + state);
+		System.out.println("hah---->");
 		
 		
 		Thread.sleep(Integer.MAX_VALUE);
